@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142919875671",
+    "firebase_url": "https://kakoytochathz-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kakoytochathz",
+    "storage_bucket": "kakoytochathz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142919875671:android:b0985b7ce8a6fb3c5a7712",
+        "android_client_info": {
+          "package_name": "android.kakoytochathz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142919875671-h6nscfrreiviiq0npk4j977g5e7tsrva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.kakoytochathz",
+            "certificate_hash": "537bf02c9a2708503d7bf53b14c955ea2d59b9ea"
+          }
+        },
+        {
+          "client_id": "142919875671-55qimiokv1tvg0982vq8iq875t4ceqle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1nqr6HHMv5LnGEHCWItmxUhQ6wFGLY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142919875671-55qimiokv1tvg0982vq8iq875t4ceqle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
